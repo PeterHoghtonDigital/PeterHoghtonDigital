@@ -6,6 +6,8 @@ I have a strong understanding of modern game systems including behaviour trees, 
 
 I have also taught C++ and game development to university students for over 7 years have published a research paper on virtual-reality and augmented-reality design.
 
+![Image](Peter%20Hoghton%20Avatar.png)
+
 [Portfolio](https://www.peterhoghtondigital.com) | [LinkedIn](https://www.linkedin.com/in/peter-hoghton/) | [YouTube](https://www.youtube.com/channel/UCmdpJO0VIxrHlut5mCNzgDQ) | [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/profile/Peter+Hoghton+Digital) | [Twitter](https://twitter.com/PHoghtonDigital) | [Facebook](https://www.facebook.com/PeterHoghtonDigital)
 
 [Support My Work!](https://www.paypal.com/paypalme/PeterHoghtonDigital)
