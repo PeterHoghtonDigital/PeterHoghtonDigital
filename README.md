@@ -12,7 +12,8 @@ I have also taught C++ and game development to university students for over 7 ye
   <a href="https://www.unrealengine.com/marketplace/en-US/profile/Peter+Hoghton+Digital">Unreal Marketplace</a> | 
   <a href="https://twitter.com/PHoghtonDigital">Twitter</a> | 
   <a href="https://www.facebook.com/PeterHoghtonDigital">Facebook</a>  
-  <br><br><a href="https://www.paypal.com/paypalme/PeterHoghtonDigital">Support My Work!</a>
   <br><br>Any questions? Send me an <a href="mailto:peterhoghtondigital@gmail.com">email</a>.
   <br><br>© Copyright 2021 Peter Hoghton Digital. All rights reserved.
+  <br><br>"PhD Logo" by <a href="https://thenounproject.com/symbolon/">Symbolon</a> from <a href="https://thenounproject.com/">The Noun Project</a>.
+  <br><br><a href="https://www.paypal.com/paypalme/PeterHoghtonDigital">Support My Work!</a>
 </p>
