@@ -9,7 +9,6 @@ I have also taught C++ and game development to university students for over 7 ye
   <a href="https://www.peterhoghtondigital.com">Portfolio</a> | 
   <a href="https://www.linkedin.com/in/peter-hoghton/">LinkedIn</a> | 
   <a href="https://www.youtube.com/channel/UCmdpJO0VIxrHlut5mCNzgDQ">YouTube</a> | 
-  <a href="https://www.unrealengine.com/marketplace/en-US/profile/Peter+Hoghton+Digital">Unreal Marketplace</a> | 
   <a href="https://twitter.com/PHoghtonDigital">Twitter</a> | 
   <a href="https://www.facebook.com/PeterHoghtonDigital">Facebook</a>  
   <br><br>Any questions? Send me an <a href="mailto:peterhoghtondigital@gmail.com">email</a>.
