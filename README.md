@@ -1,9 +1,11 @@
 ![Image](PhD_Logo_Large_White.png)
-I am a Gameplay Programmer, experienced with C++, C# and Unreal Engine. I have 7 years of experience programming game mechanics and systems for PC, virtual-reality, augmented-reality and mobile applications using commercial game engines.
+I am a Gameplay Engineer, experienced with C++ and Unreal Engine.
 
-I have a strong understanding of modern game systems including behaviour trees, state machines, pathfinding, physics simulation and skeletal animation.
+I have over 5 years of experience programming game mechanics and systems for PC, console, virtual-reality, augmented-reality and mobile applications.
 
-I have also taught C++ and game development to university students for over 7 years have published a research paper on virtual-reality and augmented-reality design.
+I have an inherent passion for the video game industry and emerging technologies, and continually seek to innovate within my field.
+
+I previously taught game development to university students for over 5 years and published a research paper on virtual-reality and augmented-reality design.
 ![Image](Peter%20Hoghton%20Avatar.png)
 <p align="center">
   <a href="https://www.peterhoghtondigital.com">Portfolio</a> | 
