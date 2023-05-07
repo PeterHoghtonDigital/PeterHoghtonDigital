@@ -1,11 +1,7 @@
 ![Image](PhD_Logo_Large_White.png)
-I am a Gameplay Engineer, experienced with C++ and Unreal Engine.
+As a highly skilled Gameplay Engineer with expertise in C++ and Unreal Engine, I have over 5 years of experience programming game mechanics and systems for multiple platforms. My passion for the video game industry and emerging technologies drives me to continuously innovate within my field.
 
-I have over 5 years of experience programming game mechanics and systems for PC, console, virtual-reality, augmented-reality and mobile applications.
-
-I have an inherent passion for the video game industry and emerging technologies, and continually seek to innovate within my field.
-
-I previously taught game development to university students for over 5 years and published a research paper on virtual-reality and augmented-reality design.
+Prior to my work as a Gameplay Engineer, I spent over 5 years as a university instructor teaching game development to students at various levels. I also have experience as a researcher, having published a research paper on virtual reality and augmented reality design.
 ![Image](Peter%20Hoghton%20Avatar.png)
 <p align="center"> 
   <a href="https://www.linkedin.com/in/peter-hoghton/">LinkedIn</a> | 
