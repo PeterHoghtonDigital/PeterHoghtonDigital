@@ -11,6 +11,5 @@ Prior to my work as a Gameplay Engineer, I spent over 5 years as a university in
   <a href="https://www.youtube.com/@PeterHoghtonDigital">YouTube</a> | 
   <a href="mailto:peterhoghtondigital@gmail.com">Email</a>
   <br><br>© Copyright Peter Hoghton. All rights reserved.
-  <br><br>"Peter Hoghton Digital" logo created by <a href="https://thenounproject.com/symbolon/">Symbolon</a> from <a href="https://thenounproject.com/">The Noun Project</a>.
   <br><br>You can support my work via <a href="https://www.paypal.com/paypalme/PeterHoghtonDigital">PayPal</a>.
 </p>
