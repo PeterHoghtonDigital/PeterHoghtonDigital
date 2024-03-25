@@ -1,4 +1,4 @@
-![Image](CoverPhoto.png)
+![Image](CoverPhoto_02.png)
 
 As a highly skilled Gameplay Engineer with expertise in C++ and Unreal Engine, I have over 5 years of experience programming game mechanics and systems for multiple platforms. My passion for the video game industry and emerging technologies drives me to continuously innovate within my field.
 
