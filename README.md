@@ -1,10 +1,10 @@
 ![Image](CoverPhoto_02.png)
 
-As a highly skilled Gameplay Engineer with expertise in C++ and Unreal Engine, I have over 5 years of experience programming game mechanics and systems for multiple platforms. My passion for the video game industry and emerging technologies drives me to continuously innovate within my field.
+As a highly skilled Gameplay Engineer with over 5 years of experience in C++/C#, spanning multiple engines including Unreal Engine, Unity, and Snowdrop, I specialise in developing robust gameplay mechanics and systems across diverse platforms. My expertise includes game logic, performance optimisation, and system implementation, all aimed at delivering seamless and engaging player experiences.
 
-I leverage my strong background in education to bridge the gap between industry and academia. With over 5 years of experience as a university instructor teaching game development to students at various levels, I understand the intricacies of educational programs and how they intersect with industry needs. Additionally, my time as a researcher, during which I published a <a href="https://drive.google.com/file/d/1NetTc0TOJvVVAdKwaV0vyUW4cl910AUz/view?usp=sharing">research paper</a> on virtual reality and augmented reality design, has provided me with a deep understanding of cutting-edge technologies and their applications in both education and industry.
+My background in education and research has further strengthened my problem-solving and analytical skills. Having worked as a university instructor, I understand the importance of bridging the gap between academia and the gaming industry. This experience, combined with my post-graduate research, has provided me with a solid foundation in system design, which I apply to the development of complex gameplay systems.
 
-With this unique blend of experience in game development, education, and research, I bring a holistic perspective to my work. I am adept at creating engaging and innovative gameplay experiences while also considering the educational requirements and learning outcomes of the field. I am excited to apply my skills and expertise to new challenges, and I am eager to contribute to a team of passionate professionals in the video game industry.
+I am passionate about creating high-quality, immersive game experiences and thrive in collaborative environments. As I continue to grow as a gameplay engineer, I am excited to contribute my skills to teams focused on pushing the boundaries of gaming innovation.
 <br><br>
 
 <p align="center"> 
