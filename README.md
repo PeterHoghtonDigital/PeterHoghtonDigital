@@ -1,4 +1,4 @@
-![Image](CoverPhoto_02.png)
+![Image](game-changer-featured-image-1.jpg)
 
 As a highly skilled Gameplay Engineer with over 5 years of experience in C++/C#, spanning multiple engines including Unreal Engine, Unity, and Snowdrop, I specialise in developing robust gameplay mechanics and systems across diverse platforms. My expertise includes game logic, performance optimisation, and system implementation, all aimed at delivering seamless and engaging player experiences.
 
