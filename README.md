@@ -24,5 +24,5 @@ I am currently available for freelance engagements and remain open to impactful 
   <a href="mailto:peterhoghtondigital@gmail.com">Email</a> | 
   <a href="https://www.linkedin.com/in/peter-hoghton/">LinkedIn</a> | 
   <a href="https://www.youtube.com/@PeterHoghtonDigital">YouTube</a>
-  <br><br>You can support my work via <a href="https://www.paypal.com/paypalme/PeterHoghtonDigital">PayPal</a>.
+  <br><br>You can support my work, or buy me a coffee, via <a href="https://www.paypal.com/paypalme/PeterHoghtonDigital">PayPal</a>.
 </p>
