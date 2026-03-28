@@ -1,16 +1,25 @@
 ![Image](CoverPhoto_02.png)
 
-As a highly skilled Gameplay Engineer with over 5 years of experience in C++/C#, spanning multiple engines including Unreal Engine, Unity, and Snowdrop, I specialise in developing robust gameplay mechanics and systems across diverse platforms. My expertise includes game logic, performance optimisation, and system implementation, all aimed at delivering seamless and engaging player experiences.
+I am a Software Engineer specializing in C++ and Unreal Engine, with a focus on real-time applications and immersive experiences. I provide freelance software engineering, technical consulting, and specialized tuition services for studios, teams, and individuals.
 
-My background in education and research has further strengthened my problem-solving and analytical skills. Having worked as a university instructor, I understand the importance of bridging the gap between academia and the gaming industry. This experience, combined with my post-graduate research, has provided me with a solid foundation in system design, which I apply to the development of complex gameplay systems.
+My professional experience spans the games industry, academia, and research. Having worked as a Gameplay Engineer at Ubisoft, contributed to research and government projects, and taught at the tertiary level, I bring a well-rounded perspective that bridges real-world production, technical depth, and education. This allows me not only to build high-quality solutions but also to communicate and mentor effectively.
 
-I am passionate about creating high-quality, immersive game experiences and thrive in collaborative environments. As I continue to grow as a gameplay engineer, I am excited to contribute my skills to teams focused on pushing the boundaries of gaming innovation.
+I bring a flexible engineering mindset that adapts to different domains and challenges. I focus on delivering clean, scalable solutions and practical outcomes, whether that means shipping features, guiding technical direction, or helping others develop their skills.
+
+My services include:
+
+- <b>Software Engineering:</b> Design and implementation of robust, scalable, and performant technical solutions.
+
+- <b>Technical Consulting:</b> Strategic architectural oversight, technical roadmaps, and feasibility studies.
+
+- <b>Specialized Tuition:</b> Professional mentorship, comprehensive code reviews, and industry-focused training.
+
+I am currently available for freelance engagements and remain open to impactful full-time roles.
 <br><br>
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/peter-hoghton/">LinkedIn</a> | 
   <a href="https://www.youtube.com/@PeterHoghtonDigital">YouTube</a> | 
   <a href="mailto:peterhoghtondigital@gmail.com">Email</a>
-  <br><br>© Copyright Peter Hoghton. All rights reserved.
   <br><br>You can support my work via <a href="https://www.paypal.com/paypalme/PeterHoghtonDigital">PayPal</a>.
 </p>
