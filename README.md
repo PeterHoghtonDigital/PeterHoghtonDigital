@@ -1,4 +1,7 @@
-![Image](CoverPhoto_02.png)
+<div align="center">
+  <img src="logo_Blue%20on%20Light.png">
+</div>
+<br>
 
 I am a Software Engineer specializing in C++ and Unreal Engine, with a focus on real-time applications and immersive experiences. I provide freelance software engineering, technical consulting, and specialized tuition services for studios, teams, and individuals.
 
@@ -18,8 +21,8 @@ I am currently available for freelance engagements and remain open to impactful 
 <br><br>
 
 <p align="center"> 
+  <a href="mailto:peterhoghtondigital@gmail.com">Email</a> | 
   <a href="https://www.linkedin.com/in/peter-hoghton/">LinkedIn</a> | 
-  <a href="https://www.youtube.com/@PeterHoghtonDigital">YouTube</a> | 
-  <a href="mailto:peterhoghtondigital@gmail.com">Email</a>
+  <a href="https://www.youtube.com/@PeterHoghtonDigital">YouTube</a>
   <br><br>You can support my work via <a href="https://www.paypal.com/paypalme/PeterHoghtonDigital">PayPal</a>.
 </p>
