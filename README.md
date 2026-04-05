@@ -2,12 +2,9 @@
   <img src="logo_Blue%20on%20Light.png">
 </div>
 <br>
-
 I am a Software Engineer specializing in C++ and Unreal Engine, with a focus on real-time applications and immersive experiences. I provide freelance software engineering, technical consulting, and specialized tuition services for studios, teams, and individuals.
 
-My professional experience spans the games industry, academia, and research. Having worked as a Gameplay Engineer at Ubisoft, contributed to research and government projects, and taught at the tertiary level, I bring a well-rounded perspective that bridges real-world production, technical depth, and education. This allows me not only to build high-quality solutions but also to communicate and mentor effectively.
-
-I bring a flexible engineering mindset that adapts to different domains and challenges. I focus on delivering clean, scalable solutions and practical outcomes, whether that means shipping features, guiding technical direction, or helping others develop their skills.
+<br>My professional experience spans the games industry, academia, and research. I have previously worked as a Gameplay Engineer at Ubisoft, contributed to research and government projects, and taught at the tertiary level.
 
 My services include:
 
