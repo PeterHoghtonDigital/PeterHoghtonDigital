@@ -8,11 +8,11 @@ I am a Software Engineer specializing in C++ and Unreal Engine, with a focus on 
 
 My services include:
 
-★ <b>Software Engineering:</b> Design and implementation of robust, scalable, and performant technical solutions.
+★ <b>Software Engineering:</b> System Design, C++ Programming, Blueprint Scripting, Performance Optimization, Debugging.
 
-★ <b>Technical Consulting:</b> Strategic architectural oversight, technical roadmaps, and feasibility studies.
+★ <b>Technical Consulting:</b> Feasibility Studies, Technical Roadmaps, Architectural Oversight, Workflow Optimization, Code Reviews.
 
-★ <b>Specialized Tuition:</b> Professional mentorship, comprehensive code reviews, and industry-focused training.
+★ <b>Specialized Tuition:</b> Resume & Portfolio Reviews, Practice Interviews, Time Management Techniques, Communication & Networking, Bespoke Training & Upskilling.
 
 I am currently available for freelance engagements and remain open to impactful full-time roles.
 <br><br>
